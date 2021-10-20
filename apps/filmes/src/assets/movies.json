@@ -1,0 +1,105 @@
+{
+   "movies": [
+        {
+            "id": "1",
+            "name": "Fee Guy: Assumindo o Controle",
+            "year": 2021,
+            "director": "Shawn Levy",
+            "genre": "Comédia, Ação, Aventura, Ficção científica ",
+            "description": "Um caixa de banco preso a uma entediante rotina tem sua vida virada de cabeça para baixo quando ele descobre que é personagem em um brutalmente realista vídeo game de mundo aberto. Agora ele precisa aceitar sua realidade e lidar com o fato de que é o único que pode salvar o mundo.",
+            "poster":"https://www.themoviedb.org/t/p/original/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg"
+       
+        },
+        {
+            "id": "2",
+            "name": "O Esquadrão Suicida",
+            "year": 2021,
+            "director": "James Gunn",
+            "genre": "Ação, Aventura, Fantasia",
+            "description": "Os supervilões Harley Quinn, Bloodsport, Peacemaker e uma coleção de malucos condenados da prisão de Belle Reve juntam-se à super-secreta e super-obscura Força Tarefa X, enquanto são deixados na remota ilha de Corto Maltese para combater o inimigo.",
+            "poster":"https://www.themoviedb.org/t/p/original/58MckINQv9nulew8KuQgcwTRJGd.jpg"
+       
+        },
+        {
+            "id": "3",
+            "name": "Shang-Chi",
+            "year": 2021,
+            "director": "Destin Daniel Cretton",
+            "genre": "Ação, Aventura, Fantasia",          
+            "description": "Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.",
+            "poster":"https://www.themoviedb.org/t/p/original/ArrOBeio968bUuUOtEpKa1teIh4.jpg"
+       
+        },
+        {
+            "id": "4",
+            "name": "Viúva Negra",
+            "year": 2021,
+            "director": "Cate Shortland",
+            "genre": "Ação, Aventura, Ficção científica",
+            "description": "Natasha Romanoff, também conhecida como Viúva Negra, confronta o lado mais sombrio de sua história quando surge uma perigosa conspiração ligada ao seu passado. Perseguida por uma força implacável disposta a tudo para destruí-la, Natasha precisa agora lidar com seu passado como espiã e com as relações que deixou para trás muito antes de se tornar uma Vingadora.",
+            "poster":"https://www.themoviedb.org/t/p/original/m9n4kfFlf1WAo7jQj9fhfxFI9se.jpg"
+       
+        },
+        {
+            "id": "5",
+            "name": "Deadpool",
+            "year": 2016,
+            "director": "Tim Miller",
+            "genre": "Ação, Aventura, Comédia",
+            "description": "Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.",
+            "poster":"https://www.themoviedb.org/t/p/original/swS3PsQYD3wGEWZwtgpUlGRMv1G.jpg"
+       
+        },
+        {
+            "id": "6",
+            "name": "Infinito",
+            "year": 2021 ,
+            "director": " Antoine Fuqua",
+            "genre": "Ficção científica, Ação, Thriller",
+            "description": "Evan McCauley tem habilidades que ele nunca aprendeu e lembranças de lugares que nunca visitou. Auto-medicado e à beira de um colapso mental, um grupo secreto que se intitula 'Infinites' vem em seu socorro, revelando que suas memórias são reais.",
+            "poster":"https://www.themoviedb.org/t/p/original/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg"
+       
+        },
+        {
+            "id": "7",
+            "name": "Como Virei Super-Herói",
+            "year": 2020,
+            "director": "Douglas Attal",
+            "genre": "Ficção científica, Aventura, Mistério, Ação, Thriller, Fantasia, Comédia",
+            "description": "Em um mundo onde humanos e super-heróis coexistem, um policial solitário e uma detetive brilhante se unem para acabar com um plano para roubar superpoderes.",
+            "poster":"https://www.themoviedb.org/t/p/original/iYl4YJ1BnuJEKjn0dmKlMa1Bwuo.jpg"
+       
+        },
+        {
+            "id": "8",
+            "name": "A Guerra do Amanhã",
+            "year": 2021,
+            "director": "Chris McKay",
+            "genre": "Ação, Ficção científica, Aventura",
+            "description": "Em 2051, a humanidade está perdendo uma guerra global contra uma espécie mortal de alienígenas. Para garantir a sobrevivência dos humanos, soldados e civis do presente são transportados para o futuro e se juntam à luta, entre eles Dan Forester, um pai de família determinado a salvar o mundo para sua filha.",
+            "poster":"https://www.themoviedb.org/t/p/original/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg"
+       
+        },
+        {
+            "id": "9",
+            "name": "Venom",
+            "year": 2018,
+            "director": "Ruben Fleischer",
+            "genre": "Ficção científica, Ação",
+            "description": "O jornalista Eddie Brock desenvolve força e poder sobre-humanos quando seu corpo se funde com o alienígena Venom. Dominado pela raiva, Venom tenta controlar as novas e perigosas habilidades de Eddie",
+            "poster":"https://www.themoviedb.org/t/p/original/e4SJKPH8muigUI8VcZtkqWJvEz1.jpg"
+       
+        },
+        {
+            "id": "10",
+            "name": "Exterminador: Cavaleiros e Dragões",
+            "year": 2020,
+            "director": "Sung Jin Ahn",
+            "genre": "Animação, Ação, Aventura, Ficção científica",
+            "description": "Com sua alma despedaçada e seu filho preso, o mercenário e mestre assassino Slade Wilson terá que redimir os pecados do seu passado para alimentar as batalhas do seu futuro!",
+            "poster":"https://www.themoviedb.org/t/p/original/ro7zs4rPRrhdlePR2TieNmm1Gxq.jpg"
+       
+        }
+    
+    ]
+}

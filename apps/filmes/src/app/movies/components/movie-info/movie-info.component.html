@@ -1,0 +1,37 @@
+<div class="main-container">
+    <mat-icon aria-hidden="false" aria-label="fechar" class="icon" (click)="close($event)">close</mat-icon>
+    <div class="inner-content">
+        <section class="space">
+
+            <img [src]="movie.poster" />
+
+            <div class="infos">
+                <h1>Informações</h1>
+    
+                <h2>Titulo:</h2>
+                <p>{{movie.name}}</p>
+                <br/>
+    
+                <h2>Lançamento:</h2>
+                <p>{{movie.year}}</p>
+                <br/>
+    
+                <h2>Diretor:</h2>
+                <p>{{movie.director}}</p>
+                <br/>
+    
+                <h2>Genero:</h2>
+                <p>{{movie.genre}}</p>
+                <br/>
+            </div>
+
+        </section>
+
+        <div class="description">
+            <h1> Sinopse:</h1>
+            <p>{{movie.description}}</p>
+        </div>
+        
+    </div>
+    
+</div>

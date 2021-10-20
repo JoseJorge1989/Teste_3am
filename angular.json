@@ -18,7 +18,7 @@
             "tsConfig": "apps/filmes/tsconfig.app.json",
             "inlineStyleLanguage": "scss",
             "assets": ["apps/filmes/src/favicon.ico", "apps/filmes/src/assets"],
-            "styles": ["apps/filmes/src/styles.scss"],
+            "styles": ["./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css", "apps/filmes/src/styles.scss"],
             "scripts": []
           },
           "configurations": {
@@ -122,7 +122,7 @@
   "cli": {
     "analytics": false,
     "defaultCollection": "@nrwl/angular",
-    "packageManager": "npm"
+    "packageManager": "yarn"
   },
   "schematics": {
     "@nrwl/angular": {

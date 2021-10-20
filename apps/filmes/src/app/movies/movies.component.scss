@@ -1,0 +1,124 @@
+
+.movie{
+    $border-image-source:#d92525, #5260ff;
+
+   
+ li{
+    .movie-container{
+        height: 315px;
+        position: relative;
+        line-height: 1em;
+        cursor: pointer;
+
+        img{
+            max-width: 350px;
+            max-height: 300px;
+            object-fit: cover;
+            position: relative;
+            z-index: 1;
+        
+            border-image-source: linear-gradient(45deg, $border-image-source);
+            border-image-slice: 1;
+        
+            -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+            -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+            box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+        
+            border: 3px solid;
+            border-image-source: linear-gradient(45deg, $border-image-source);
+            border-image-slice: 1;
+            border-radius: 4px;
+        
+            &:hover{
+                border: 5px solid rgb(119, 205, 231);
+            }
+        
+        }
+
+        h3{
+            height: 25px;
+            border-radius: 5px;
+            padding: 5px;
+            
+            color:black;
+            position: absolute;
+            bottom: 0;
+            margin-left: 1.8em;
+            z-index: 2;
+            background: linear-gradient(45deg, $border-image-source);
+            pointer-events: none;
+        }
+        h2, h3,a{
+            font-family: 'Baloo Paaji 2', cursive;
+            color: #000;
+        }
+        
+         
+        
+        .movie-description {
+            padding: 1em;
+            width: 100%;
+            height: 40%;
+            font-size: 0.8em;
+            overflow: hidden;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            opacity: 0%;
+        
+            &:hover {
+                width: 100%;
+                height: 100%;
+                opacity: 100%;
+                border: 3px solid rgba(255,255,255,0.8);
+                background: rgba(0,0,0,0.9);
+                
+                transition:linear 0.5s;
+                
+                border-bottom: 18px solid;
+                border-image-source: linear-gradient(45deg, $border-image-source);
+                border-image-slice: 1;
+                border-radius: 8px;
+            
+            
+                z-index: 2;
+            }
+        }
+    }
+ }
+    
+    
+}
+ ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px;
+    padding: 1em;
+    list-style-type: none;
+ }
+ li {
+    margin: 1em;
+    border-radius: 8px;
+}
+a {
+    color:white
+}
+ p{
+    font-size: 1.2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
